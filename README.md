@@ -39,4 +39,4 @@ See [PROGRESS.md](./PROGRESS.md) for my coding progress.
 ## Connect With Me
 
 - GitHub: https://github.com/tanishka8009
-- LinkedIn: Add your LinkedIn profile URL here
+
